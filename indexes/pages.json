@@ -1,0 +1,20 @@
+[
+  {
+    "id": "about",
+    "title": "About Blog",
+    "description": "A brief overview of Algorithmikos Blog and its mission.",
+    "featured": "https://res.cloudinary.com/dy95pvf1p/image/upload/v1744567067/turkish-coffee_kt6i2o.jpg"
+  },
+  {
+    "id": "author",
+    "title": "About Author",
+    "description": "A brief introduction to Umar Al-Fayez, the author of Algorithmikos Blog.",
+    "featured": "https://algorithmikos.com/umar_al-fayez.jpg"
+  },
+  {
+    "id": "contribution",
+    "title": "Contribution",
+    "description": "How to contribute to Algorithmikos Blog.",
+    "featured": "https://res.cloudinary.com/dy95pvf1p/image/upload/v1744567140/da12b0b66885f41c5c6f2179da01ed6e13033071-2121x1414_rgipnk.jpg"
+  }
+]
